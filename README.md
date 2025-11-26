@@ -5,8 +5,8 @@
 Welcome to **OldPixel CTF**!  
 This guide provides a full write-up for all tasks based on the classic 90s FPS **Duke Nukem 3D**. Follow the steps carefully and check the flags.  
 
----
 
+````
 ## 🎯 Task 1: Blast from the Past
 
 **Question:**  
@@ -20,9 +20,9 @@ This guide provides a full write-up for all tasks based on the classic 90s FPS *
 **Answer / Flag:**  
 ```text
 THM{duke_nukem_3d_3d_realms_1996}
-````
 
----
+
+
 
 ## 👹 Task 2: First Boss
 
@@ -41,7 +41,7 @@ THM{duke_nukem_3d_3d_realms_1996}
 THM{pigcop}
 ```
 
----
+
 
 ## 🔥 Task 3: Packin' Heat
 
@@ -61,7 +61,7 @@ THM{pigcop}
 THM{devastator}
 ```
 
----
+
 
 ## 💊 Task 4: Hidden in Plain Sight
 
@@ -80,7 +80,7 @@ THM{devastator}
 THM{medkit}
 ```
 
----
+
 
 ## 🗣️ Task 5: Duke Says
 
@@ -101,7 +101,7 @@ THM{medkit}
 THM{hail_to_the_king_baby}
 ```
 
----
+
 
 ## 💥 Task 6: Power Play
 
@@ -120,7 +120,7 @@ THM{hail_to_the_king_baby}
 THM{god}
 ```
 
----
+
 
 ## 📝 Tips for OSINT Solving
 
@@ -129,14 +129,14 @@ THM{god}
 * Exact spelling/capitalization matters for flags.
 * Work progressively: start with the easiest task and move to hidden secrets and cheat codes.
 
----
+
 
 ## 🎉 Congratulations!
 
 You’ve completed the **OldPixel CTF**! Keep exploring, keep learning, and remember:
 **“Hail to the king, baby!”**
 
----
+
 
 ### ⚡ Made by 7Root
 
